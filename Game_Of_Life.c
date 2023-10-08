@@ -4,8 +4,8 @@
 #include <math.h>
 #include <conio.h> // Library to avoid pressing enter to validate
 
-#define NB_ROWS 53
-#define NB_COLUMNS 53
+#define NB_ROWS 30
+#define NB_COLUMNS 30
 
 char** createMatrix() {
     char** matrix = (char**)malloc(NB_ROWS * sizeof(char*));

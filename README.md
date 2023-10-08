@@ -11,18 +11,4 @@ You can do what ever you want with this code.
 Crediting me will me a plus but not mandatory
 
 ## Buy me a coffee
-<div id="donate-button-container">
-<div id="donate-button"></div>
-<script src="https://www.paypalobjects.com/donate/sdk/donate-sdk.js" charset="UTF-8"></script>
-<script>
-PayPal.Donation.Button({
-env:'production',
-hosted_button_id:'DG7AYPYDWS6NQ',
-image: {
-src:'https://www.paypalobjects.com/en_US/i/btn/btn_donate_LG.gif',
-alt:'Donate with PayPal button',
-title:'PayPal - The safer, easier way to pay online!',
-}
-}).render('#donate-button');
-</script>
-</div>
+You can make a donation right here (if you want) : https://www.paypal.com/donate/?hosted_button_id=DG7AYPYDWS6NQ
